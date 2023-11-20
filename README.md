@@ -8,11 +8,11 @@
 ## Extra description
 
 >	- If you look around you can find:
-		1. A clever solution to storing all of your scattered links
-		2. Personal & school projects
-		3. C.V. i.e. Curriculum Vitae, not my name
-		4. Personal solutions to technical problems i.e. tutorials
-		5. Others and more
+	  1. A clever solution to storing all of your scattered links
+	  2. Personal & school projects
+	  3. C.V. i.e. Curriculum Vitae, not my name
+	  4. Personal solutions to technical problems i.e. tutorials
+	  5. Others and more
 
 ## Programming languages used
 
