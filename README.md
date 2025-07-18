@@ -1,4 +1,4 @@
-# Personal website - (name placeholder)
+# Personal website - [mitzicaro.nl](https://www.mitzicaro.nl/)
 
 ## About
 
@@ -20,4 +20,4 @@ Creating this website has been done by making use of the following programming l
 - **HTML**
 - **CSS**
 
-***Access the website ->>***[here](https://google.com)***<<-***
+***Access the website ->>***[here](https://www.mitzicaro.nl/)***<<-***
