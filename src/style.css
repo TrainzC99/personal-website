@@ -1,6 +1,11 @@
 .normal-text {
-	font-size: 20px;
+	font-size: 24px;
 	color: blue;
+}
+
+.list-text {
+	font-size: 20px;
+	color: black;
 }
 
 .justify-text {
