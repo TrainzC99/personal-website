@@ -9,5 +9,10 @@
 }
 
 .justify-text {
+	font-size: 18px;
 	text-align:justify;
+}
+
+.title-text {
+	font-size: 24px;
 }
