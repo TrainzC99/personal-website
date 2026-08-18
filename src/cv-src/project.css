@@ -1,0 +1,18 @@
+.normal-text {
+  font-size: 24px;
+  color: blue;
+}
+
+.list-text {
+  font-size: 20px;
+  color: black;
+}
+
+.justify-text {
+  font-size: 18px;
+  text-align: justify;
+}
+
+.title-text {
+  font-size: 24px;
+}
